@@ -1,7 +1,5 @@
 # sitio-consultoria-ambiental
 
----
-
 ## Autor
 
 <table>
